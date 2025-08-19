@@ -5,8 +5,7 @@ The workflow integrates **topic analysis, reference gathering, expert content wr
 
 ---
 # Here’s a demonstration of the Content Writing Agent.
-
-[![Watch the demo](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/Screen.jpg)](https://www.youtube.com/watch?v=u0uV6N-T0U8)
+[![Watch the demo](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/Screen.jpg)](https://www.youtube.com/watch?v=u0uV6N-T0U8 "Click to play")
 
 ## Graph Structure
 ![alt text](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/content_writer_structure.png)
@@ -222,6 +221,7 @@ feedback_node
 ```
 
 ---
+
 
 
 
