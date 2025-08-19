@@ -5,9 +5,10 @@ The workflow integrates **topic analysis, reference gathering, expert content wr
 
 ---
 ## Graph Structure
-Nice — thanks for sharing the graph diagram 🙌
+![alt text](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/content_writer_structure.png)
 
-This is a **LangGraph workflow** you’ve designed for a **content-writing agent**, and the nodes represent different processing steps. Let’s walk through it step by step:
+
+This is a **LangGraph workflow**  I’ve designed for a **content-writing agent**, and the nodes represent different processing steps. Let’s walk through it step by step:
 
 ---
 
@@ -217,5 +218,6 @@ feedback_node
 ```
 
 ---
+
 
 
