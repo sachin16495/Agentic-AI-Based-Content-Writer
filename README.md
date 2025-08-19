@@ -4,6 +4,10 @@ A modular, state-driven system for automated content generation.
 The workflow integrates **topic analysis, reference gathering, expert content writing, keyword validation, and feedback refinement**, ensuring accuracy, adaptability, and alignment with user objectives.
 
 ---
+# Here’s a demonstration of the Content Writing Agent.
+
+[![Watch the demo](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/Screen.jpg)](https://www.youtube.com/watch?v=u0uV6N-T0U8)
+
 ## Graph Structure
 ![alt text](https://github.com/sachin16495/Agentic-AI-Based-Content-Writer/blob/main/content_writer_structure.png)
 
@@ -218,6 +222,7 @@ feedback_node
 ```
 
 ---
+
 
 
 
