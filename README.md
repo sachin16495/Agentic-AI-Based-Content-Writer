@@ -1,3 +1,19 @@
+# Repo Content- 
+**Content_Writing_Agent.ipynb**  
+  Jupyter Notebook containing the content writing agent code along with sample outputs.
+
+**Dash_APP_LLM_Content_Writer_Agent.py**  
+  Dash-based user interface for interacting with the content writing agent.
+  
+**README.md**  
+  Documentation of the project, setup, and usage details.
+
+**Screen.jpg**  
+  Screenshot of the UI screen output with youtube link https://www.youtube.com/watch?v=u0uV6N-T0U8  
+
+**content_writer_structure.png**  
+  Graph representation of the agent workflow structure.
+
 # Content Writing Agent
 
 A modular, state-driven system for automated content generation.
@@ -221,6 +237,7 @@ feedback_node
 ```
 
 ---
+
 
 
 
